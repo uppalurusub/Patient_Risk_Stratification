@@ -1,0 +1,151 @@
+patient_id,name,age,gender,glucose,cholesterol,bmi,systolic_bp,diastolic_bp,heart_rate,smoking,alcohol,clinical_notes,risk_label
+PID0001,David Nelson,49,Female,184,150,20.6,173,81,96,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0002,Valerie Weeks,41,Female,175,128,26.3,98,108,108,No,No,Moderate diabetes risk observed with obesity indicators.,Medium Risk
+PID0003,Kristina Smith,70,Male,107,226,38.4,152,116,101,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0004,Jeremy Fernandez,73,Female,259,280,19.5,151,67,98,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0005,Brooke Davis,21,Male,126,123,39.1,162,108,62,Yes,No,Moderate diabetes risk observed with obesity indicators.,Medium Risk
+PID0006,Christina Mcdaniel,22,Female,247,149,29.4,192,97,120,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0007,Alan Jacobs,31,Female,197,203,41.8,168,101,68,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0008,Dale Murphy,25,Female,140,168,26.5,139,87,72,Yes,No,Patient shows mild hypertension and elevated cholesterol.,Medium Risk
+PID0009,Jerry Reynolds,71,Female,102,181,39.9,109,127,79,Yes,Yes,Requires lifestyle modification and periodic monitoring.,Medium Risk
+PID0010,Nicholas Mccall,28,Female,88,334,34.1,160,107,75,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0011,Michael Valenzuela,87,Female,284,129,32.6,145,67,120,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0012,Diana Green,42,Male,128,172,40.7,98,84,96,Yes,No,Moderate diabetes risk observed with obesity indicators.,Medium Risk
+PID0013,Anthony Anderson,52,Male,226,298,31.4,133,130,93,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0014,Joshua Walls,49,Female,233,168,21.6,115,88,109,Yes,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0015,Richard Christian,32,Female,100,298,22.2,96,77,88,No,No,Moderate diabetes risk observed with obesity indicators.,Medium Risk
+PID0016,Susan Oliver,28,Male,89,172,33.8,123,63,103,No,No,Requires lifestyle modification and periodic monitoring.,Medium Risk
+PID0017,Edwin Sawyer,77,Female,93,340,20.0,184,126,68,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0018,Daniel Barnes,65,Male,102,258,24.8,120,80,81,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0019,Michael Mccarty,86,Female,87,230,29.0,110,71,103,No,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0020,Robert Rios,59,Female,233,257,35.6,190,65,112,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0021,Brent Mcgee,37,Female,185,273,22.8,143,113,108,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0022,Alex Brady,38,Male,282,210,21.1,124,100,91,Yes,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0023,Douglas Jensen,50,Female,280,263,29.9,116,112,109,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0024,Billy Garcia,27,Female,213,260,38.4,149,94,111,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0025,Patricia Kennedy,46,Male,92,192,26.2,91,118,107,No,No,Requires lifestyle modification and periodic monitoring.,Medium Risk
+PID0026,Michael Davis,33,Male,80,179,29.3,169,110,80,Yes,No,Requires lifestyle modification and periodic monitoring.,Medium Risk
+PID0027,Dr. Misty Velasquez,19,Female,265,263,21.7,106,83,109,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0028,Jason Miller,19,Male,240,121,31.4,159,105,92,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0029,Gregory Mcdaniel,63,Male,267,282,23.5,184,115,108,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0030,Sean Zavala,43,Male,208,306,41.5,138,127,62,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0031,Daniel Lara,66,Male,289,200,21.8,91,105,128,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0032,David Decker,77,Female,193,139,26.1,151,110,94,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0033,Robin Phillips,69,Male,202,347,21.7,125,93,91,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0034,Jeffrey Smith,32,Male,123,161,25.6,182,121,76,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0035,Laurie Edwards,53,Male,221,321,26.6,169,61,77,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0036,Karina James,87,Male,269,300,31.9,168,80,82,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0037,Katie Houston,53,Male,262,194,37.0,113,66,116,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0038,Gina Martinez,22,Male,142,240,24.8,186,104,92,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0039,Jodi Shepherd,53,Male,135,160,34.4,115,74,116,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0040,Ian Lopez,73,Male,108,302,22.1,149,72,79,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0041,Leslie Hardy,88,Female,93,139,23.6,154,75,65,Yes,Yes,Patient shows mild hypertension and elevated cholesterol.,Medium Risk
+PID0042,Thomas Richards,43,Female,200,180,35.5,106,63,119,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0043,Jeremy Martinez,33,Female,195,283,29.6,169,99,85,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0044,Paul Garcia,78,Female,213,158,24.6,112,128,95,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0045,Matthew House,60,Male,215,134,31.4,174,111,115,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0046,Melissa Walker,19,Male,182,130,25.4,197,128,106,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0047,Cynthia Carter,81,Male,170,298,27.5,95,92,112,No,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0048,Teresa Hernandez,73,Female,96,218,29.3,114,85,79,Yes,No,Requires lifestyle modification and periodic monitoring.,Medium Risk
+PID0049,Richard Crosby,26,Male,244,272,22.9,199,75,127,No,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0050,Lauren Chambers,45,Female,280,158,26.8,99,78,123,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0051,Steve Mcfarland,35,Male,119,296,28.1,106,86,111,Yes,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0052,Carrie Ellis,75,Male,198,277,18.1,110,104,100,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0053,Jenna Clark,45,Male,210,141,34.1,146,125,126,Yes,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0054,Randy Frazier,44,Female,267,146,18.7,108,123,72,Yes,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0055,Amy Edwards,49,Female,236,157,39.9,110,66,62,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0056,Ryan Perkins,22,Male,246,128,38.4,116,78,120,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0057,Julie Castro,29,Male,127,191,31.0,200,97,72,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0058,Hannah Holloway,30,Male,214,180,36.2,102,67,120,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0059,Vanessa Johnson,64,Male,110,284,25.2,181,128,129,Yes,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0060,Daniel Phillips,47,Female,110,133,26.5,146,107,71,No,No,Requires lifestyle modification and periodic monitoring.,Medium Risk
+PID0061,Justin Miller,21,Male,248,343,22.4,190,88,79,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0062,Nancy Fletcher,77,Male,175,209,38.4,105,124,130,Yes,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0063,Rachel Gregory,51,Female,259,216,40.3,151,124,111,No,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0064,Miss Michelle Hall,42,Male,261,192,34.0,145,91,108,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0065,William Kline,56,Male,169,233,24.3,124,107,70,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0066,Ashley Johnson,71,Female,75,194,39.4,170,71,75,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0067,Luke Williams,58,Male,178,168,33.0,103,84,60,Yes,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0068,Devon Martinez,62,Male,268,171,28.0,123,116,92,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0069,Stephanie Murphy,20,Female,191,189,27.9,164,103,70,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0070,Hannah Miller,67,Male,284,328,20.5,140,128,72,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0071,Jonathan Ferguson,21,Male,105,242,34.4,181,123,126,Yes,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0072,Gina Foley,42,Male,95,339,25.6,184,96,112,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0073,Dale Ortiz,77,Male,109,300,25.5,111,80,82,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0074,April Schneider,64,Male,76,190,21.9,152,82,57,No,Yes,Patient shows mild hypertension and elevated cholesterol.,Medium Risk
+PID0075,Thomas Smith,74,Female,122,203,36.0,109,82,81,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0076,Sabrina Bryant,75,Male,190,224,34.4,114,99,59,No,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0077,Travis Zhang,56,Female,132,219,40.8,170,63,98,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0078,Chad Russell,20,Female,140,270,36.5,144,121,70,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0079,Christina Best,34,Female,157,260,18.3,180,88,125,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0080,Michael Elliott,74,Male,226,245,39.3,105,119,125,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0081,Andrew Golden,60,Male,259,258,32.3,122,120,108,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0082,Andrew Cooley,22,Female,122,276,21.4,156,105,105,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0083,Theresa Preston,85,Male,72,261,25.3,177,106,123,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0084,Lawrence Jones,67,Female,134,305,25.9,96,121,101,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0085,Beverly Crawford,39,Female,178,282,29.1,150,86,92,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0086,Dawn Contreras,44,Female,184,202,35.7,137,68,127,Yes,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0087,Jo Snyder,81,Male,107,202,29.3,161,82,87,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0088,David Mccullough,47,Female,91,211,26.2,195,127,87,Yes,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0089,Megan Castillo,21,Female,83,276,18.1,164,72,107,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0090,Brian Hale,81,Male,182,259,20.9,117,123,120,No,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0091,Derek Prince,35,Female,280,301,40.5,136,75,113,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0092,Stephanie Carey,65,Female,217,172,34.9,191,111,113,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0093,Jimmy Clark,48,Male,272,143,23.4,184,118,125,Yes,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0094,Ellen Hamilton,44,Male,179,263,22.0,106,65,62,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0095,Ashlee Aguilar,69,Male,119,153,32.3,165,111,114,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0096,Deanna Herrera,37,Male,278,339,25.5,196,105,115,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0097,Jennifer Morton,39,Male,216,212,37.7,155,82,100,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0098,Anna Jones PhD,68,Male,141,178,41.1,188,109,68,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0099,Matthew Cole,25,Female,86,342,20.0,107,84,117,Yes,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0100,Brandon Williams,79,Male,104,237,34.7,175,124,101,Yes,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0101,Vernon Alvarez,64,Female,270,189,18.5,148,100,87,No,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0102,William Miller,38,Male,125,233,34.8,139,86,94,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0103,Maria Wilkinson,50,Male,233,275,35.6,185,126,104,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0104,Phyllis Martinez,71,Male,266,333,21.5,185,78,85,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0105,Kayla Taylor,52,Female,77,349,26.0,138,103,95,No,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0106,Anna Thomas,79,Male,108,152,25.4,97,64,105,No,Yes,Patient shows mild hypertension and elevated cholesterol.,Medium Risk
+PID0107,Edward Dunn,22,Male,83,195,40.6,189,70,63,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0108,Samantha Freeman,18,Female,109,298,33.2,197,65,69,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0109,Casey Lee,26,Male,170,269,41.2,178,120,130,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0110,Heidi Davis,22,Male,152,225,25.7,148,81,61,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0111,David Li,83,Female,192,131,27.5,171,92,75,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0112,Natasha Horton,44,Male,181,124,33.6,168,128,79,Yes,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0113,Gabrielle Hernandez,47,Male,263,233,31.4,141,97,58,Yes,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0114,William Frost,26,Male,266,129,41.2,181,78,63,Yes,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0115,Chelsea Benson,51,Female,228,219,34.6,92,80,81,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0116,Tammy Elliott,77,Female,71,135,23.9,137,112,127,Yes,Yes,Patient shows mild hypertension and elevated cholesterol.,Medium Risk
+PID0117,Caitlin Richardson,43,Male,188,332,33.1,102,98,56,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0118,Linda Houston,56,Male,224,318,32.5,155,106,103,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0119,Michelle Rodriguez,50,Female,183,247,37.9,136,75,66,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0120,Kevin Friedman,27,Male,235,228,40.1,139,108,89,No,No,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0121,Valerie Garrett,74,Female,201,122,36.1,190,116,122,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0122,Joshua Miller,41,Female,256,245,29.4,184,83,89,Yes,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0123,Tristan Hines,70,Female,163,175,20.1,178,67,101,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0124,Alexandra Smith,83,Male,146,334,27.9,172,63,95,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0125,Randall Williams,34,Female,282,274,28.7,172,103,107,No,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0126,Gregory Smith,84,Female,171,338,33.7,149,69,121,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0127,Lori Wagner,79,Male,140,263,29.3,162,116,84,No,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0128,Sarah Mora,56,Male,260,337,19.7,150,117,87,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0129,Jose Santana,84,Female,272,216,20.7,129,105,119,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0130,Ashley Carr,29,Male,288,325,24.8,152,63,100,Yes,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0131,Heather Welch,89,Male,85,260,29.8,195,61,118,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0132,Kathryn Johnson,26,Male,199,158,34.4,157,74,119,No,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0133,Cindy Schmidt,61,Male,222,331,20.3,190,76,118,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0134,John Adams,63,Male,113,309,29.5,122,87,91,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0135,Judy Ramos,50,Female,192,324,40.7,191,96,111,No,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0136,Jennifer Woodard,23,Male,81,290,22.8,118,120,130,Yes,No,Requires lifestyle modification and periodic monitoring.,Medium Risk
+PID0137,Joseph Anderson,69,Female,227,272,34.0,128,90,66,Yes,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0138,James Torres,74,Male,87,296,22.8,121,92,70,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0139,Heather Pacheco,85,Female,266,208,36.6,148,64,111,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0140,Megan Hardy,34,Female,131,314,27.4,148,128,121,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0141,Stacy Fernandez,82,Male,79,321,23.3,179,99,127,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0142,Sean Willis,78,Male,252,341,35.2,158,120,130,No,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0143,Brandon Thompson,78,Male,223,151,31.3,175,113,108,No,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0144,Shane Lopez,72,Male,163,334,36.7,132,70,57,No,No,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0145,Rebecca White DDS,58,Female,127,286,32.4,129,86,118,No,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0146,Jeffrey Sanchez,83,Male,72,226,35.8,155,106,90,Yes,No,Critical monitoring required due to multiple comorbidities.,High Risk
+PID0147,Scott White,72,Female,87,261,20.2,134,69,122,No,Yes,High cardiac risk with obesity and elevated cholesterol.,High Risk
+PID0148,Evan Delgado,23,Female,74,126,24.0,110,129,118,Yes,Yes,Moderate diabetes risk observed with obesity indicators.,Medium Risk
+PID0149,Alicia Landry,75,Female,227,246,27.4,168,89,124,Yes,Yes,Patient has uncontrolled diabetes and severe hypertension.,High Risk
+PID0150,Joel Shaffer,73,Female,218,231,21.8,166,66,58,Yes,Yes,Critical monitoring required due to multiple comorbidities.,High Risk

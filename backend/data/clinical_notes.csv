@@ -1,0 +1,151 @@
+patient_id,clinical_note,diagnosis,severity,risk_label
+PID0001,Patient diagnosed with Liver Disease. Mild symptoms including blurred vision. Responding well to Lisinopril. Routine follow-up recommended.,Liver Disease,Low,Low Risk
+PID0002,Patient shows moderate signs of Asthma with symptoms such as shortness of breath. Requires continuous monitoring and medication Aspirin.,Asthma,Medium,Medium Risk
+PID0003,Patient diagnosed with Hypertension. Mild symptoms including blurred vision. Responding well to Lisinopril. Routine follow-up recommended.,Hypertension,Low,Low Risk
+PID0004,Patient shows moderate signs of Asthma with symptoms such as persistent cough. Requires continuous monitoring and medication Insulin.,Asthma,Medium,Medium Risk
+PID0005,Patient diagnosed with Obesity. Mild symptoms including persistent cough. Responding well to Insulin. Routine follow-up recommended.,Obesity,Low,Low Risk
+PID0006,Patient diagnosed with Kidney Disease. Mild symptoms including chest pain. Responding well to Albuterol. Routine follow-up recommended.,Kidney Disease,Low,Low Risk
+PID0007,Patient shows moderate signs of Liver Disease with symptoms such as swelling in legs. Requires continuous monitoring and medication Amlodipine.,Liver Disease,Medium,Medium Risk
+PID0008,Patient diagnosed with COPD. Mild symptoms including chest pain. Responding well to Insulin. Routine follow-up recommended.,COPD,Low,Low Risk
+PID0009,Patient has severe Obesity with worsening chest pain. High-risk condition requiring immediate attention. Currently prescribed Aspirin.,Obesity,High,High Risk
+PID0010,Patient shows moderate signs of Asthma with symptoms such as headache. Requires continuous monitoring and medication Atorvastatin.,Asthma,Medium,Medium Risk
+PID0011,Patient diagnosed with Kidney Disease. Mild symptoms including fatigue. Responding well to Amlodipine. Routine follow-up recommended.,Kidney Disease,Low,Low Risk
+PID0012,Patient has severe Hypertension with worsening shortness of breath. High-risk condition requiring immediate attention. Currently prescribed Aspirin.,Hypertension,High,High Risk
+PID0013,Patient diagnosed with Diabetes. Mild symptoms including shortness of breath. Responding well to Insulin. Routine follow-up recommended.,Diabetes,Low,Low Risk
+PID0014,Patient shows moderate signs of COPD with symptoms such as persistent cough. Requires continuous monitoring and medication Albuterol.,COPD,Medium,Medium Risk
+PID0015,Patient shows moderate signs of Asthma with symptoms such as persistent cough. Requires continuous monitoring and medication Losartan.,Asthma,Medium,Medium Risk
+PID0016,Patient has severe Obesity with worsening headache. High-risk condition requiring immediate attention. Currently prescribed Albuterol.,Obesity,High,High Risk
+PID0017,Patient has severe Liver Disease with worsening blurred vision. High-risk condition requiring immediate attention. Currently prescribed Amlodipine.,Liver Disease,High,High Risk
+PID0018,Patient diagnosed with Asthma. Mild symptoms including persistent cough. Responding well to Aspirin. Routine follow-up recommended.,Asthma,Low,Low Risk
+PID0019,Patient has severe Hypertension with worsening swelling in legs. High-risk condition requiring immediate attention. Currently prescribed Albuterol.,Hypertension,High,High Risk
+PID0020,Patient shows moderate signs of Diabetes with symptoms such as chest pain. Requires continuous monitoring and medication Amlodipine.,Diabetes,Medium,Medium Risk
+PID0021,Patient diagnosed with Asthma. Mild symptoms including swelling in legs. Responding well to Metformin. Routine follow-up recommended.,Asthma,Low,Low Risk
+PID0022,Patient has severe Hypertension with worsening swelling in legs. High-risk condition requiring immediate attention. Currently prescribed Lisinopril.,Hypertension,High,High Risk
+PID0023,Patient shows moderate signs of Liver Disease with symptoms such as high blood sugar. Requires continuous monitoring and medication Aspirin.,Liver Disease,Medium,Medium Risk
+PID0024,Patient shows moderate signs of Kidney Disease with symptoms such as fatigue. Requires continuous monitoring and medication Aspirin.,Kidney Disease,Medium,Medium Risk
+PID0025,Patient has severe Hypertension with worsening shortness of breath. High-risk condition requiring immediate attention. Currently prescribed Metformin.,Hypertension,High,High Risk
+PID0026,Patient shows moderate signs of Obesity with symptoms such as persistent cough. Requires continuous monitoring and medication Albuterol.,Obesity,Medium,Medium Risk
+PID0027,Patient diagnosed with Hypertension. Mild symptoms including high blood sugar. Responding well to Atorvastatin. Routine follow-up recommended.,Hypertension,Low,Low Risk
+PID0028,Patient diagnosed with Hypertension. Mild symptoms including chest pain. Responding well to Amlodipine. Routine follow-up recommended.,Hypertension,Low,Low Risk
+PID0029,Patient has severe Cardiovascular Disease with worsening fatigue. High-risk condition requiring immediate attention. Currently prescribed Atorvastatin.,Cardiovascular Disease,High,High Risk
+PID0030,Patient has severe Obesity with worsening chest pain. High-risk condition requiring immediate attention. Currently prescribed Insulin.,Obesity,High,High Risk
+PID0031,Patient shows moderate signs of Cardiovascular Disease with symptoms such as persistent cough. Requires continuous monitoring and medication Aspirin.,Cardiovascular Disease,Medium,Medium Risk
+PID0032,Patient has severe Liver Disease with worsening chest pain. High-risk condition requiring immediate attention. Currently prescribed Lisinopril.,Liver Disease,High,High Risk
+PID0033,Patient shows moderate signs of COPD with symptoms such as chest pain. Requires continuous monitoring and medication Losartan.,COPD,Medium,Medium Risk
+PID0034,Patient shows moderate signs of Diabetes with symptoms such as headache. Requires continuous monitoring and medication Atorvastatin.,Diabetes,Medium,Medium Risk
+PID0035,Patient has severe Cardiovascular Disease with worsening fatigue. High-risk condition requiring immediate attention. Currently prescribed Insulin.,Cardiovascular Disease,High,High Risk
+PID0036,Patient has severe Obesity with worsening chest pain. High-risk condition requiring immediate attention. Currently prescribed Amlodipine.,Obesity,High,High Risk
+PID0037,Patient diagnosed with Hypertension. Mild symptoms including swelling in legs. Responding well to Lisinopril. Routine follow-up recommended.,Hypertension,Low,Low Risk
+PID0038,Patient shows moderate signs of Liver Disease with symptoms such as dizziness. Requires continuous monitoring and medication Amlodipine.,Liver Disease,Medium,Medium Risk
+PID0039,Patient has severe Kidney Disease with worsening high blood sugar. High-risk condition requiring immediate attention. Currently prescribed Losartan.,Kidney Disease,High,High Risk
+PID0040,Patient shows moderate signs of Kidney Disease with symptoms such as chest pain. Requires continuous monitoring and medication Lisinopril.,Kidney Disease,Medium,Medium Risk
+PID0041,Patient shows moderate signs of Cardiovascular Disease with symptoms such as high blood sugar. Requires continuous monitoring and medication Metformin.,Cardiovascular Disease,Medium,Medium Risk
+PID0042,Patient has severe Asthma with worsening headache. High-risk condition requiring immediate attention. Currently prescribed Albuterol.,Asthma,High,High Risk
+PID0043,Patient shows moderate signs of Kidney Disease with symptoms such as dizziness. Requires continuous monitoring and medication Atorvastatin.,Kidney Disease,Medium,Medium Risk
+PID0044,Patient shows moderate signs of Obesity with symptoms such as headache. Requires continuous monitoring and medication Insulin.,Obesity,Medium,Medium Risk
+PID0045,Patient has severe Kidney Disease with worsening persistent cough. High-risk condition requiring immediate attention. Currently prescribed Losartan.,Kidney Disease,High,High Risk
+PID0046,Patient diagnosed with Kidney Disease. Mild symptoms including chest pain. Responding well to Insulin. Routine follow-up recommended.,Kidney Disease,Low,Low Risk
+PID0047,Patient has severe Kidney Disease with worsening high blood sugar. High-risk condition requiring immediate attention. Currently prescribed Amlodipine.,Kidney Disease,High,High Risk
+PID0048,Patient has severe Kidney Disease with worsening high blood sugar. High-risk condition requiring immediate attention. Currently prescribed Aspirin.,Kidney Disease,High,High Risk
+PID0049,Patient has severe Obesity with worsening joint pain. High-risk condition requiring immediate attention. Currently prescribed Albuterol.,Obesity,High,High Risk
+PID0050,Patient shows moderate signs of COPD with symptoms such as swelling in legs. Requires continuous monitoring and medication Aspirin.,COPD,Medium,Medium Risk
+PID0051,Patient diagnosed with Diabetes. Mild symptoms including dizziness. Responding well to Losartan. Routine follow-up recommended.,Diabetes,Low,Low Risk
+PID0052,Patient has severe Hypertension with worsening chest pain. High-risk condition requiring immediate attention. Currently prescribed Aspirin.,Hypertension,High,High Risk
+PID0053,Patient shows moderate signs of Asthma with symptoms such as joint pain. Requires continuous monitoring and medication Aspirin.,Asthma,Medium,Medium Risk
+PID0054,Patient has severe Cardiovascular Disease with worsening swelling in legs. High-risk condition requiring immediate attention. Currently prescribed Losartan.,Cardiovascular Disease,High,High Risk
+PID0055,Patient diagnosed with Kidney Disease. Mild symptoms including dizziness. Responding well to Amlodipine. Routine follow-up recommended.,Kidney Disease,Low,Low Risk
+PID0056,Patient has severe Obesity with worsening dizziness. High-risk condition requiring immediate attention. Currently prescribed Lisinopril.,Obesity,High,High Risk
+PID0057,Patient has severe Cardiovascular Disease with worsening headache. High-risk condition requiring immediate attention. Currently prescribed Albuterol.,Cardiovascular Disease,High,High Risk
+PID0058,Patient has severe Cardiovascular Disease with worsening blurred vision. High-risk condition requiring immediate attention. Currently prescribed Albuterol.,Cardiovascular Disease,High,High Risk
+PID0059,Patient shows moderate signs of COPD with symptoms such as headache. Requires continuous monitoring and medication Albuterol.,COPD,Medium,Medium Risk
+PID0060,Patient diagnosed with Diabetes. Mild symptoms including dizziness. Responding well to Insulin. Routine follow-up recommended.,Diabetes,Low,Low Risk
+PID0061,Patient shows moderate signs of Obesity with symptoms such as persistent cough. Requires continuous monitoring and medication Losartan.,Obesity,Medium,Medium Risk
+PID0062,Patient has severe Diabetes with worsening shortness of breath. High-risk condition requiring immediate attention. Currently prescribed Amlodipine.,Diabetes,High,High Risk
+PID0063,Patient has severe Liver Disease with worsening high blood sugar. High-risk condition requiring immediate attention. Currently prescribed Aspirin.,Liver Disease,High,High Risk
+PID0064,Patient has severe Asthma with worsening chest pain. High-risk condition requiring immediate attention. Currently prescribed Insulin.,Asthma,High,High Risk
+PID0065,Patient shows moderate signs of Diabetes with symptoms such as shortness of breath. Requires continuous monitoring and medication Lisinopril.,Diabetes,Medium,Medium Risk
+PID0066,Patient diagnosed with Liver Disease. Mild symptoms including high blood sugar. Responding well to Metformin. Routine follow-up recommended.,Liver Disease,Low,Low Risk
+PID0067,Patient shows moderate signs of COPD with symptoms such as joint pain. Requires continuous monitoring and medication Lisinopril.,COPD,Medium,Medium Risk
+PID0068,Patient diagnosed with Cardiovascular Disease. Mild symptoms including chest pain. Responding well to Aspirin. Routine follow-up recommended.,Cardiovascular Disease,Low,Low Risk
+PID0069,Patient shows moderate signs of Kidney Disease with symptoms such as swelling in legs. Requires continuous monitoring and medication Lisinopril.,Kidney Disease,Medium,Medium Risk
+PID0070,Patient has severe Asthma with worsening joint pain. High-risk condition requiring immediate attention. Currently prescribed Aspirin.,Asthma,High,High Risk
+PID0071,Patient has severe Kidney Disease with worsening swelling in legs. High-risk condition requiring immediate attention. Currently prescribed Amlodipine.,Kidney Disease,High,High Risk
+PID0072,Patient shows moderate signs of Obesity with symptoms such as blurred vision. Requires continuous monitoring and medication Aspirin.,Obesity,Medium,Medium Risk
+PID0073,Patient has severe Obesity with worsening blurred vision. High-risk condition requiring immediate attention. Currently prescribed Losartan.,Obesity,High,High Risk
+PID0074,Patient diagnosed with Diabetes. Mild symptoms including swelling in legs. Responding well to Insulin. Routine follow-up recommended.,Diabetes,Low,Low Risk
+PID0075,Patient shows moderate signs of COPD with symptoms such as chest pain. Requires continuous monitoring and medication Atorvastatin.,COPD,Medium,Medium Risk
+PID0076,Patient diagnosed with Cardiovascular Disease. Mild symptoms including headache. Responding well to Insulin. Routine follow-up recommended.,Cardiovascular Disease,Low,Low Risk
+PID0077,Patient shows moderate signs of Cardiovascular Disease with symptoms such as headache. Requires continuous monitoring and medication Losartan.,Cardiovascular Disease,Medium,Medium Risk
+PID0078,Patient shows moderate signs of Obesity with symptoms such as shortness of breath. Requires continuous monitoring and medication Lisinopril.,Obesity,Medium,Medium Risk
+PID0079,Patient diagnosed with Cardiovascular Disease. Mild symptoms including persistent cough. Responding well to Lisinopril. Routine follow-up recommended.,Cardiovascular Disease,Low,Low Risk
+PID0080,Patient diagnosed with COPD. Mild symptoms including persistent cough. Responding well to Metformin. Routine follow-up recommended.,COPD,Low,Low Risk
+PID0081,Patient has severe Obesity with worsening dizziness. High-risk condition requiring immediate attention. Currently prescribed Losartan.,Obesity,High,High Risk
+PID0082,Patient diagnosed with COPD. Mild symptoms including fatigue. Responding well to Aspirin. Routine follow-up recommended.,COPD,Low,Low Risk
+PID0083,Patient diagnosed with COPD. Mild symptoms including blurred vision. Responding well to Amlodipine. Routine follow-up recommended.,COPD,Low,Low Risk
+PID0084,Patient has severe Cardiovascular Disease with worsening high blood sugar. High-risk condition requiring immediate attention. Currently prescribed Losartan.,Cardiovascular Disease,High,High Risk
+PID0085,Patient shows moderate signs of Diabetes with symptoms such as swelling in legs. Requires continuous monitoring and medication Amlodipine.,Diabetes,Medium,Medium Risk
+PID0086,Patient diagnosed with Hypertension. Mild symptoms including chest pain. Responding well to Albuterol. Routine follow-up recommended.,Hypertension,Low,Low Risk
+PID0087,Patient has severe Hypertension with worsening joint pain. High-risk condition requiring immediate attention. Currently prescribed Lisinopril.,Hypertension,High,High Risk
+PID0088,Patient shows moderate signs of Hypertension with symptoms such as headache. Requires continuous monitoring and medication Amlodipine.,Hypertension,Medium,Medium Risk
+PID0089,Patient has severe Asthma with worsening shortness of breath. High-risk condition requiring immediate attention. Currently prescribed Amlodipine.,Asthma,High,High Risk
+PID0090,Patient has severe Obesity with worsening swelling in legs. High-risk condition requiring immediate attention. Currently prescribed Losartan.,Obesity,High,High Risk
+PID0091,Patient diagnosed with Cardiovascular Disease. Mild symptoms including joint pain. Responding well to Lisinopril. Routine follow-up recommended.,Cardiovascular Disease,Low,Low Risk
+PID0092,Patient has severe COPD with worsening high blood sugar. High-risk condition requiring immediate attention. Currently prescribed Metformin.,COPD,High,High Risk
+PID0093,Patient diagnosed with Cardiovascular Disease. Mild symptoms including chest pain. Responding well to Insulin. Routine follow-up recommended.,Cardiovascular Disease,Low,Low Risk
+PID0094,Patient has severe Liver Disease with worsening shortness of breath. High-risk condition requiring immediate attention. Currently prescribed Albuterol.,Liver Disease,High,High Risk
+PID0095,Patient has severe COPD with worsening swelling in legs. High-risk condition requiring immediate attention. Currently prescribed Albuterol.,COPD,High,High Risk
+PID0096,Patient diagnosed with Hypertension. Mild symptoms including persistent cough. Responding well to Metformin. Routine follow-up recommended.,Hypertension,Low,Low Risk
+PID0097,Patient diagnosed with Asthma. Mild symptoms including shortness of breath. Responding well to Aspirin. Routine follow-up recommended.,Asthma,Low,Low Risk
+PID0098,Patient shows moderate signs of Cardiovascular Disease with symptoms such as headache. Requires continuous monitoring and medication Metformin.,Cardiovascular Disease,Medium,Medium Risk
+PID0099,Patient has severe Liver Disease with worsening joint pain. High-risk condition requiring immediate attention. Currently prescribed Atorvastatin.,Liver Disease,High,High Risk
+PID0100,Patient shows moderate signs of Cardiovascular Disease with symptoms such as swelling in legs. Requires continuous monitoring and medication Aspirin.,Cardiovascular Disease,Medium,Medium Risk
+PID0101,Patient has severe Obesity with worsening dizziness. High-risk condition requiring immediate attention. Currently prescribed Lisinopril.,Obesity,High,High Risk
+PID0102,Patient shows moderate signs of Obesity with symptoms such as shortness of breath. Requires continuous monitoring and medication Lisinopril.,Obesity,Medium,Medium Risk
+PID0103,Patient diagnosed with Cardiovascular Disease. Mild symptoms including blurred vision. Responding well to Losartan. Routine follow-up recommended.,Cardiovascular Disease,Low,Low Risk
+PID0104,Patient diagnosed with Diabetes. Mild symptoms including headache. Responding well to Lisinopril. Routine follow-up recommended.,Diabetes,Low,Low Risk
+PID0105,Patient diagnosed with Cardiovascular Disease. Mild symptoms including swelling in legs. Responding well to Metformin. Routine follow-up recommended.,Cardiovascular Disease,Low,Low Risk
+PID0106,Patient has severe Hypertension with worsening persistent cough. High-risk condition requiring immediate attention. Currently prescribed Lisinopril.,Hypertension,High,High Risk
+PID0107,Patient has severe Asthma with worsening headache. High-risk condition requiring immediate attention. Currently prescribed Lisinopril.,Asthma,High,High Risk
+PID0108,Patient shows moderate signs of Liver Disease with symptoms such as fatigue. Requires continuous monitoring and medication Metformin.,Liver Disease,Medium,Medium Risk
+PID0109,Patient shows moderate signs of Hypertension with symptoms such as dizziness. Requires continuous monitoring and medication Atorvastatin.,Hypertension,Medium,Medium Risk
+PID0110,Patient has severe Hypertension with worsening high blood sugar. High-risk condition requiring immediate attention. Currently prescribed Losartan.,Hypertension,High,High Risk
+PID0111,Patient diagnosed with Hypertension. Mild symptoms including high blood sugar. Responding well to Losartan. Routine follow-up recommended.,Hypertension,Low,Low Risk
+PID0112,Patient diagnosed with Cardiovascular Disease. Mild symptoms including joint pain. Responding well to Metformin. Routine follow-up recommended.,Cardiovascular Disease,Low,Low Risk
+PID0113,Patient has severe COPD with worsening chest pain. High-risk condition requiring immediate attention. Currently prescribed Aspirin.,COPD,High,High Risk
+PID0114,Patient shows moderate signs of Asthma with symptoms such as high blood sugar. Requires continuous monitoring and medication Metformin.,Asthma,Medium,Medium Risk
+PID0115,Patient diagnosed with Obesity. Mild symptoms including high blood sugar. Responding well to Aspirin. Routine follow-up recommended.,Obesity,Low,Low Risk
+PID0116,Patient diagnosed with Diabetes. Mild symptoms including shortness of breath. Responding well to Losartan. Routine follow-up recommended.,Diabetes,Low,Low Risk
+PID0117,Patient diagnosed with Liver Disease. Mild symptoms including fatigue. Responding well to Metformin. Routine follow-up recommended.,Liver Disease,Low,Low Risk
+PID0118,Patient has severe Liver Disease with worsening joint pain. High-risk condition requiring immediate attention. Currently prescribed Atorvastatin.,Liver Disease,High,High Risk
+PID0119,Patient diagnosed with Obesity. Mild symptoms including blurred vision. Responding well to Metformin. Routine follow-up recommended.,Obesity,Low,Low Risk
+PID0120,Patient diagnosed with COPD. Mild symptoms including fatigue. Responding well to Atorvastatin. Routine follow-up recommended.,COPD,Low,Low Risk
+PID0121,Patient shows moderate signs of COPD with symptoms such as joint pain. Requires continuous monitoring and medication Metformin.,COPD,Medium,Medium Risk
+PID0122,Patient diagnosed with Asthma. Mild symptoms including blurred vision. Responding well to Atorvastatin. Routine follow-up recommended.,Asthma,Low,Low Risk
+PID0123,Patient diagnosed with Hypertension. Mild symptoms including chest pain. Responding well to Lisinopril. Routine follow-up recommended.,Hypertension,Low,Low Risk
+PID0124,Patient shows moderate signs of Diabetes with symptoms such as chest pain. Requires continuous monitoring and medication Amlodipine.,Diabetes,Medium,Medium Risk
+PID0125,Patient shows moderate signs of Liver Disease with symptoms such as chest pain. Requires continuous monitoring and medication Amlodipine.,Liver Disease,Medium,Medium Risk
+PID0126,Patient shows moderate signs of Cardiovascular Disease with symptoms such as swelling in legs. Requires continuous monitoring and medication Losartan.,Cardiovascular Disease,Medium,Medium Risk
+PID0127,Patient shows moderate signs of Asthma with symptoms such as dizziness. Requires continuous monitoring and medication Insulin.,Asthma,Medium,Medium Risk
+PID0128,Patient shows moderate signs of Cardiovascular Disease with symptoms such as persistent cough. Requires continuous monitoring and medication Atorvastatin.,Cardiovascular Disease,Medium,Medium Risk
+PID0129,Patient has severe Hypertension with worsening blurred vision. High-risk condition requiring immediate attention. Currently prescribed Insulin.,Hypertension,High,High Risk
+PID0130,Patient shows moderate signs of Hypertension with symptoms such as joint pain. Requires continuous monitoring and medication Lisinopril.,Hypertension,Medium,Medium Risk
+PID0131,Patient has severe Kidney Disease with worsening shortness of breath. High-risk condition requiring immediate attention. Currently prescribed Atorvastatin.,Kidney Disease,High,High Risk
+PID0132,Patient shows moderate signs of Obesity with symptoms such as high blood sugar. Requires continuous monitoring and medication Lisinopril.,Obesity,Medium,Medium Risk
+PID0133,Patient shows moderate signs of Cardiovascular Disease with symptoms such as dizziness. Requires continuous monitoring and medication Amlodipine.,Cardiovascular Disease,Medium,Medium Risk
+PID0134,Patient has severe Hypertension with worsening fatigue. High-risk condition requiring immediate attention. Currently prescribed Atorvastatin.,Hypertension,High,High Risk
+PID0135,Patient shows moderate signs of Hypertension with symptoms such as high blood sugar. Requires continuous monitoring and medication Losartan.,Hypertension,Medium,Medium Risk
+PID0136,Patient shows moderate signs of Diabetes with symptoms such as high blood sugar. Requires continuous monitoring and medication Albuterol.,Diabetes,Medium,Medium Risk
+PID0137,Patient diagnosed with Liver Disease. Mild symptoms including fatigue. Responding well to Atorvastatin. Routine follow-up recommended.,Liver Disease,Low,Low Risk
+PID0138,Patient diagnosed with Cardiovascular Disease. Mild symptoms including dizziness. Responding well to Metformin. Routine follow-up recommended.,Cardiovascular Disease,Low,Low Risk
+PID0139,Patient diagnosed with Diabetes. Mild symptoms including persistent cough. Responding well to Albuterol. Routine follow-up recommended.,Diabetes,Low,Low Risk
+PID0140,Patient diagnosed with Cardiovascular Disease. Mild symptoms including fatigue. Responding well to Lisinopril. Routine follow-up recommended.,Cardiovascular Disease,Low,Low Risk
+PID0141,Patient diagnosed with Liver Disease. Mild symptoms including joint pain. Responding well to Atorvastatin. Routine follow-up recommended.,Liver Disease,Low,Low Risk
+PID0142,Patient has severe Hypertension with worsening dizziness. High-risk condition requiring immediate attention. Currently prescribed Aspirin.,Hypertension,High,High Risk
+PID0143,Patient has severe Cardiovascular Disease with worsening swelling in legs. High-risk condition requiring immediate attention. Currently prescribed Losartan.,Cardiovascular Disease,High,High Risk
+PID0144,Patient has severe Liver Disease with worsening joint pain. High-risk condition requiring immediate attention. Currently prescribed Albuterol.,Liver Disease,High,High Risk
+PID0145,Patient has severe Kidney Disease with worsening persistent cough. High-risk condition requiring immediate attention. Currently prescribed Insulin.,Kidney Disease,High,High Risk
+PID0146,Patient shows moderate signs of Liver Disease with symptoms such as fatigue. Requires continuous monitoring and medication Losartan.,Liver Disease,Medium,Medium Risk
+PID0147,Patient shows moderate signs of Cardiovascular Disease with symptoms such as joint pain. Requires continuous monitoring and medication Amlodipine.,Cardiovascular Disease,Medium,Medium Risk
+PID0148,Patient shows moderate signs of Liver Disease with symptoms such as blurred vision. Requires continuous monitoring and medication Losartan.,Liver Disease,Medium,Medium Risk
+PID0149,Patient has severe Obesity with worsening high blood sugar. High-risk condition requiring immediate attention. Currently prescribed Aspirin.,Obesity,High,High Risk
+PID0150,Patient has severe Obesity with worsening dizziness. High-risk condition requiring immediate attention. Currently prescribed Losartan.,Obesity,High,High Risk
